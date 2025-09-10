@@ -34,6 +34,11 @@ main{
     margin: auto;
     line-height: 1.6;
 }
+main img{
+    border-radius: 10px;
+    max-width: 500px;
+    border: 2px solid whitesmoke;
+}
 #link{
     font-style: italic;
     color:  #545b61;
